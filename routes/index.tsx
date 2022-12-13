@@ -48,10 +48,8 @@ export default function Home({ data }: PageProps<Data>) {
                       for 5 years where I learned and polished skills such as
                       Team Work, Time Management, Organization, Comunication,
                       and Problem Sovling to accomplish task in a timely manor.
-                      Honestly, I'm still unsure about the route I want to take
-                      in programming but I do have an interest in AI. I am eagar
-                      to work as a Software Developer, gain experience, and to
-                      learn from others.
+                      I am eagar to work as a Software Developer, gain
+                      experience, and to learn from others.
                     </p>
                   </div>
                 </div>
