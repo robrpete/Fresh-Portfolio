@@ -246,7 +246,7 @@ export default function Home({ data }: PageProps<Data>) {
                                     Student
                                   </span>
                                   <span class="mt-1 text-gray-200 text-sm">
-                                    Jan 2020 - April 2022
+                                    Jan 2020 - Present
                                   </span>
                                 </div>
                                 <div class="md:flex-grow ml-4">
@@ -254,7 +254,7 @@ export default function Home({ data }: PageProps<Data>) {
                                     BGSU
                                   </h2>
                                   <p class="leading-normal mt-3">
-                                    Science AS
+                                    Science BS
                                   </p>
                                 </div>
                               </div>
@@ -264,7 +264,7 @@ export default function Home({ data }: PageProps<Data>) {
                                     U.S. Army
                                   </span>
                                   <span class="mt-1 text-gray-200 text-sm">
-                                    Aug 2014 - Aug 2018
+                                    Aug 2014 - Aug 2019
                                   </span>
                                 </div>
                                 <div class="md:flex-grow ml-4">
