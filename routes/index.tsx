@@ -43,13 +43,13 @@ export default function Home({ data }: PageProps<Data>) {
                   </div>
                   <div class=" bg-[#00000055] sm:w-2/3 sm:px-8 px-4 sm:py-8 py-4 sm:border-l border-solid border-white border-opacity-20  mt-4 pt-4 sm:mt-0 text-center sm:text-left  rounded-lg">
                     <p class="leading-normal mt-3 mb-4">
-                      I am a junior Software Developer. Prior to becoming a
-                      Software Developer, I was a student and in the U.S.Army
-                      for 5 years where I learned and polished skills such as
-                      Team Work, Time Management, Organization, Comunication,
-                      and Problem Sovling to accomplish task in a timely manor.
-                      I am eagar to work as a Software Developer, gain
-                      experience, and to learn from others.
+                      I am a junior Python Developer. Prior to becoming a
+                      Developer, I was a student and in the U.S.Army for 5 years
+                      where I learned and practiced skills such as Team Work,
+                      Time Management, Organization, Communication, and Problem
+                      Solving to accomplish task in a timely manor. I am eager
+                      to work as a Developer, gain experience, and to learn from
+                      others.
                     </p>
                   </div>
                 </div>
