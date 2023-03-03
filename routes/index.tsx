@@ -95,10 +95,10 @@ export default function Home({ data }: PageProps<Data>) {
                       </a>
                     </div>
                     <div class="flex flex-col items-center bg-[#00000055] w-auto h-auto rounded-lg p-4 m-2">
-                      <h1>AoC</h1>
-                      <a href="https://github.com/robrpete/adventofcode">
+                      <h1>Xtreme</h1>
+                      <a href="https://github.com/robrpete">
                         <img
-                          src="/tbd.png"
+                          src="/xtre.png"
                           class="h-20 w-20 rounded-full"
                           alt=""
                         />
