@@ -43,13 +43,16 @@ export default function Home({ data }: PageProps<Data>) {
                   </div>
                   <div class=" bg-[#00000055] sm:w-2/3 sm:px-8 px-4 sm:py-8 py-4 sm:border-l border-solid border-white border-opacity-20  mt-4 pt-4 sm:mt-0 text-center sm:text-left  rounded-lg">
                     <p class="leading-normal mt-3 mb-4">
-                      I am a junior Python Developer. Prior to becoming a
-                      Developer, I was a student and in the U.S.Army for 5 years
-                      where I learned and practiced skills such as Team Work,
-                      Time Management, Organization, Communication, and Problem
-                      Solving to accomplish task in a timely manor. I am eager
-                      to work as a Developer, gain experience, and to learn from
-                      others.
+                      As an aspiring Developer, I bring a diverse background,
+                      having been a student and a dedicated member of the U.S.
+                      Army for five years. During my military service, I honed
+                      crucial skills such as Team Work, Time Management,
+                      Organization, Communication, and Problem Solving. Now, my
+                      primary goal is to contribute as a Developer, gaining
+                      valuable experience and learning from industry experts. I
+                      am eager to make a meaningful impact, showcasing my
+                      dedication and skills in a collaborative and innovative
+                      work environment.
                     </p>
                   </div>
                 </div>
@@ -61,7 +64,7 @@ export default function Home({ data }: PageProps<Data>) {
               <div class="lg:w-4/6 mx-auto">
                 <div class="flex flex-col items-center justify-center mt-10 p-4 rounded-lg bg-gradient-to-b from-[#1e3b8ac5] to-[#1e3b8a3f] border-[1px] border-solid border-white border-opacity-20">
                   <div class="pb-4">
-                    <h1>Projects</h1>
+                    <h1 class="text-xl font-bold text-white mb-3">Projects</h1>
                   </div>
                   <div class="flex flex-col items-center sm:flex-row">
                     <div class="flex flex-col items-center bg-[#00000055] w-auto h-auto rounded-lg p-4 m-2">
@@ -90,16 +93,6 @@ export default function Home({ data }: PageProps<Data>) {
                         <img
                           src="/todo-list.png"
                           class="h-20 w-20 rounded-full object-cover"
-                          alt=""
-                        />
-                      </a>
-                    </div>
-                    <div class="flex flex-col items-center bg-[#00000055] w-auto h-auto rounded-lg p-4 m-2">
-                      <h1>Xtreme</h1>
-                      <a href="https://github.com/robrpete">
-                        <img
-                          src="/xtre.png"
-                          class="h-20 w-20 rounded-full"
                           alt=""
                         />
                       </a>
