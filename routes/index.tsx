@@ -72,7 +72,7 @@ export default function Home({ data }: PageProps<Data>) {
                       <a href="https://github.com/robrpete/weather-app">
                         <img
                           src="/weatherlogo1.jpg"
-                          class="h-20 w-20 rounded-full"
+                          class="h-20 w-20 rounded-full object-cover"
                           alt=""
                         />
                       </a>
