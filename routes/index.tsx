@@ -68,10 +68,10 @@ export default function Home({ data }: PageProps<Data>) {
                   </div>
                   <div class="flex flex-col items-center sm:flex-row">
                     <div class="flex flex-col items-center bg-[#00000055] w-auto h-auto rounded-lg p-4 m-2">
-                      <h1>robrpete.github.io</h1>
-                      <a href="https://github.com/robrpete/robrpete.github.io">
+                      <h1>Weather App</h1>
+                      <a href="https://github.com/robrpete/weather-app">
                         <img
-                          src="/space-octopus.jpg"
+                          src="/weahterlogo.png"
                           class="h-20 w-20 rounded-full"
                           alt=""
                         />
