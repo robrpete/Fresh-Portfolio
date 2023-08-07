@@ -113,8 +113,8 @@ export default function Home({ data }: PageProps<Data>) {
                           Skills
                         </h1>
                         <div class="w-12 h-1 rounded mt-2 mb-4"></div>
-                        <ul class="leading-normal mt-3 mb-3">
-                          <li class="pb-1 pt-6 hover:text-white flex">
+                        <ul class="flex flex-wrap md:flex-col leading-normal mt-3 mb-3">
+                          <li class="pb-1 pt-3 hover:text-white flex">
                             <img
                               src="/python-logo.png"
                               class="h-5 w-5 mr-2"
