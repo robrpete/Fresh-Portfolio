@@ -66,7 +66,7 @@ export default function Home({ data }: PageProps<Data>) {
                   <div class="pb-4">
                     <h1 class="text-xl font-bold text-white mb-3">Projects</h1>
                   </div>
-                  <div class="flex flex-col items-center sm:flex-row">
+                  <div class="flex flex-wrap justify-center items-center sm:flex-row">
                     <div class="flex flex-col items-center bg-[#00000055] w-auto h-auto rounded-lg p-4 m-2">
                       <h1>Weather App</h1>
                       <a href="https://github.com/robrpete/weather-app">
