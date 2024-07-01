@@ -1,3 +1,9 @@
-body{
+
+body {
     background: #2564eb69 url('/port_bg.jpg') center / cover no-repeat fixed;
+    background-color: black;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
