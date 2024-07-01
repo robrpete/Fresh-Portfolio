@@ -3,7 +3,7 @@ export function Footer() {
     <footer class="text-gray-100  ">
       <div class="container px-5 py-8 mx-auto flex flex-col items-center space-y-4">
         <span class="inline-flex sm:mx-auto sm:mt-0 mt-4 justify-center">
-          <a class="ml-3 text-gray-100" href="https://github.com/robrpete">
+          <a class="ml-3 text-gray-100" href="https://github.com">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
